@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.venv*/
+.vscode/
+
+log.txt
+knight_index_storage/
+
+# Scraped dataset (often large; generate locally)
+knight_knowledge/
+
+
+# OS clutter
+Thumbs.db
+Desktop.ini
